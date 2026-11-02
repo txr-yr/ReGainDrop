@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this development snapshot, cite the accompanying manuscript and acknowledge the reused components listed in NOTICE."
+type: software
+title: "ReGainDrop: Visual Token Pruning Research Code"
+version: 0.1.0
+date-released: 2026-11-02
+repository-code: "https://github.com/txr-yr/ReGainDrop"
+authors:
+  - family-names: Zhong
+    given-names: Xingpeng
+    affiliation: "School of Mathematics and Information Science, Zhengzhou University"
+  - family-names: Tian
+    given-names: Xirui
+    affiliation: "School of Mathematics and Information Science, Guangzhou University"
+  - family-names: Liu
+    given-names: Junhao
+    affiliation: "School of Mathematics and Information Science, Guangzhou University"
+  - family-names: Zhu
+    given-names: Guanquan
+    affiliation: "School of Mathematics and Information Science, Guangzhou University"
+  - family-names: Zhong
+    given-names: Xingyi
+    affiliation: "School of Creative and Design, Guangdong Construction Polytechnic"
+    email: zhongxingyi@gdcvi.edu.cn
+preferred-citation:
+  type: unpublished
+  title: "Beyond [CLS] Attention: Rethinking Visual Cues for Effective Token Pruning in VLMs"
+  year: 2026
+  authors:
+    - family-names: Zhong
+      given-names: Xingpeng
+    - family-names: Tian
+      given-names: Xirui
+    - family-names: Liu
+      given-names: Junhao
+    - family-names: Zhu
+      given-names: Guanquan
+    - family-names: Zhong
+      given-names: Xingyi

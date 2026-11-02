@@ -1,0 +1,22 @@
+ReGainDrop research code, development snapshot prepared 2026-11-02.
+
+This distribution contains adaptations of VisPruner (Theia-4869/VisPruner),
+LLaVA (haotian-liu/LLaVA), and Hugging Face Transformers/Qwen2.5-VL.
+Original copyright and attribution notices in source files are retained.
+Apache-2.0 license text is provided in LICENSE.
+
+The author-provided snapshot contains changes to the visual scoring and pruning
+logic. Release preparation changes package metadata, documentation and launch
+paths; it does not alter that snapshot's model computations. Development status
+and known paper/code discrepancies are documented in docs/REPRODUCIBILITY.md.
+
+llava/eval/m4c_evaluator.py contains code copied from Facebook Research MMF;
+its BSD license is provided in third_party_licenses/MMF_BSD_LICENSE.txt.
+Upstream VisPruner acknowledges ToMe for its matching/pruning lineage; that
+acknowledgment is retained here. Exact line-level ancestry was not established
+from the supplied archive, and no additional license is imposed on independent
+components solely on the basis of that acknowledgment.
+See docs/THIRD_PARTY.md for origin links and the limits of provenance tracing.
+
+Model checkpoints and datasets are not distributed and have independent terms.
+No endorsement by any upstream project or institution is implied.

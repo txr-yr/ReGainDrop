@@ -1,0 +1,6 @@
+# Use a separate Python 3.11 environment; do not install the LLaVA project here.
+# Install torch/torchvision for your CUDA version from https://pytorch.org/ first.
+transformers==5.11.0
+accelerate
+Pillow
+qwen-vl-utils
