@@ -1,6 +1,6 @@
 # ReGainDrop
 
-Research code accompanying **Beyond [CLS] Attention: Rethinking Visual Cues for Effective Token Pruning in VLMs**.
+Research code accompanying **ReGainDrop: Visual Token Pruning via Global Relevance and Representation Gain**.
 
 Xingpeng Zhong, Xirui Tian, Junhao Liu, Guanquan Zhu, and Xingyi Zhong (corresponding author).
 
