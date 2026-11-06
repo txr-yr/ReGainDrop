@@ -25,7 +25,7 @@ authors:
     email: zhongxingyi@gdcvi.edu.cn
 preferred-citation:
   type: unpublished
-  title: "Beyond [CLS] Attention: Rethinking Visual Token Importance for Efficient Vision-Language Models"
+  title: "Rethinking Visual Cues for Training-Free Token Pruning in Vision-Language Models"
   year: 2026
   authors:
     - family-names: Zhong
